@@ -1,0 +1,8 @@
+{
+  "web": {
+    "port": 8083
+  },
+  "settings": {
+    "airhornBotApi": "https://airhorn.solutions/api"
+  }
+}
